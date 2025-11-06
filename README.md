@@ -8,7 +8,7 @@
 1️⃣ **Clone the repository**
 ```git clone https://github.com/username/homecinema-api.git```
 
-Run ```composer install```
+Run ```composer install``` \n
 Create ```.env``` file from ```.env.example```
 Create database and add it's name in ```.env``` param like this: ```DB_DATABASE=home_cinema```
 Run ```php artisan key:generate```
@@ -18,5 +18,6 @@ Create ```film``` and people ```folders``` in ```./storage/app/public```
 Add manualy some images into folders or use front-end page for adding pics
 
 !Admin credentials: username - admin, password - 123
+
 
 
