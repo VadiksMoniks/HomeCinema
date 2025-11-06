@@ -6,9 +6,7 @@
 ## ⚙️ Installation
 
 1️⃣ **Clone the repository**
-```
-git clone https://github.com/username/homecinema-api.git
-cd homecinema-api ```
+```git clone https://github.com/username/homecinema-api.git```
 
 Run ```composer install```
 Create ```.env``` file from ```.env.example```
@@ -20,4 +18,5 @@ Create ```film``` and people ```folders``` in ```./storage/app/public```
 Add manualy some images into folders or use front-end page for adding pics
 
 !Admin credentials: username - admin, password - 123
+
 
