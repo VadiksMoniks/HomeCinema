@@ -6,7 +6,7 @@
 ## ⚙️ Installation
 
 1️⃣ **Clone the repository**
-```bash
+```
 git clone https://github.com/username/homecinema-api.git
 cd homecinema-api ```
 
@@ -20,3 +20,4 @@ Create ```film``` and people ```folders``` in ```./storage/app/public```
 Add manualy some images into folders or use front-end page for adding pics
 
 !Admin credentials: username - admin, password - 123
+
